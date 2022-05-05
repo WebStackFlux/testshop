@@ -1,0 +1,26 @@
+.wrapped{height: 700px;
+width: 1280px;
+
+margin: 0 auto;
+
+}
+
+.tt{height: 45px;
+    width: 1535px;;
+    
+background-color: #333333;
+}
+.tt ul li{
+    float: right;
+
+    line-height: 45px;
+
+
+}
+.tt ul li a{
+    margin: 0 8px;
+font-size: 14px;
+color: white;
+
+}
+.tt li span{color: green;}
